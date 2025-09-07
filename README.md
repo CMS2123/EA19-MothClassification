@@ -45,7 +45,7 @@
   ```
 
 ## Quickstart — Notebook (end-to-end)
-1. **Open the notebook** (`ERP_code_FINAL.ipynb`; the Colab PDF mirrors the flow).
+1. **Open the notebook** (`Moth_Classification_Code_FINAL.ipynb`; the Colab PDF mirrors the flow).
 2. **Ensure data present** under `split_data/{train,val,test}/…` as above.
 3. **Run training**
    - Backbone: **EfficientNet-B0** (`include_top=False`)
